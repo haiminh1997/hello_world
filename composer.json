@@ -1,11 +1,11 @@
 {
-  "name": "lhm/hello_world",
+  "name": "lhmlqd/hello_world",
   "description": "the first composer package",
   "type": "php",
-  "license": "aaaa",
+  "license": "aabb",
   "authors": [
     {
-      "name": "lhm",
+      "name": "lhmlqd",
       "email": "haiminhlqd@gmail.com"
     }
   ],
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "lhm\\SayHello\\": "src/"
+      "lhmlqd\\SayHello\\": "src/"
     }
   }
 }
